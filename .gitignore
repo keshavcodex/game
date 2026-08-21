@@ -1,0 +1,12 @@
+game-ui/node_modules/
+game-ui/build/
+game-ui/dist/
+game-ui/.env
+game-ui/.env.*
+game-engine/target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+*.env
